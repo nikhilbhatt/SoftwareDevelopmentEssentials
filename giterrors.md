@@ -48,8 +48,9 @@
 # Git Readme Profile Tips:-
 
 1. Apply no of profile visits batch:- https://pufler.dev/git-badges/
-2. Apply Hi Image GIf:- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-3. view raw file of my github profile:- https://github.com/<username>/<username>
+2. Apply Hi Image GIf:- <!img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+	* Note:- Remove ! from image tag
+3. view raw file of your github profile:- https://github.com/<username>/<username>
 4. https://github.com/MartinHeinz/MartinHeinz/blob/master/README.md view raw
 
 
